@@ -1,0 +1,8 @@
+﻿Note to self (-T)
+
+we need to tidy up the filestructure a bit before moving on ;-;
+
+to include moving the contents of `Integrated Scripts` somewhere more logical 
+(and unifying scripts outside the scripts folder without good reason)
+
+but for now, the scripts from the other version are going here.

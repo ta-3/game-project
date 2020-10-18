@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1510791986952988}
+  m_IsPrefabAsset: 1
+--- !u!1 &1510791986952988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4562767433503138}
+  - component: {fileID: 114479103279304792}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4562767433503138
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510791986952988}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114479103279304792
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510791986952988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc5c8024cc582544089545333ff5d895, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioClips:
+  - name: TorchNoise01
+    audio: {fileID: 8300000, guid: a58fa4585fefc5043a66e30d7b6b9e70, type: 3}
+    source: {fileID: 0}
+    volume: 0.577
+    pitch: 0.39
+    loop: 1
+    startTime: 0
+  - name: Success
+    audio: {fileID: 8300000, guid: 5645a3ccf0fceba4ab93c5845d3ea214, type: 3}
+    source: {fileID: 0}
+    volume: 0.878
+    pitch: 0.42
+    loop: 0
+    startTime: 3
+  - name: bgm01
+    audio: {fileID: 8300000, guid: ad974ede9cb0e0343a0212d671eff540, type: 3}
+    source: {fileID: 0}
+    volume: 0.19
+    pitch: 0.44
+    loop: 1
+    startTime: 0
+  - name: IceCrackling
+    audio: {fileID: 8300000, guid: c3ec3d6ede065c34aa32c4b8e9557bc7, type: 3}
+    source: {fileID: 0}
+    volume: 0.154
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: FireballWhoosh
+    audio: {fileID: 8300000, guid: ac96b1812db39774cbe492590a3377e6, type: 3}
+    source: {fileID: 0}
+    volume: 0.429
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: FireballImpact
+    audio: {fileID: 8300000, guid: 24152b2a7a60e1647b3f8dd71516ea64, type: 3}
+    source: {fileID: 0}
+    volume: 0.382
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: Throw_Ball
+    audio: {fileID: 8300000, guid: d9bb0e031fe5f3f47912935074bc4ad7, type: 3}
+    source: {fileID: 0}
+    volume: 0.382
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: TeleportBounce
+    audio: {fileID: 8300000, guid: 271e07a48dc46494ea096ede9114c72c, type: 3}
+    source: {fileID: 0}
+    volume: 0.382
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: Book_Collision
+    audio: {fileID: 8300000, guid: 789c7b7420b2f8b4389532c36e5a7d85, type: 3}
+    source: {fileID: 0}
+    volume: 0.16
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: Metal_Collision
+    audio: {fileID: 8300000, guid: 789c7b7420b2f8b4389532c36e5a7d85, type: 3}
+    source: {fileID: 0}
+    volume: 0.21
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  - name: Door_Chains
+    audio: {fileID: 8300000, guid: d540389a29d86b747b8dc2287611a5d6, type: 3}
+    source: {fileID: 0}
+    volume: 0.35
+    pitch: 0.44
+    loop: 0
+    startTime: 0
+  blockCollisions: 1

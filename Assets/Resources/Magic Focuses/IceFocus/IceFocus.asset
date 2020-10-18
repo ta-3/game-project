@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647119961147b044f9ffb3550094524f, type: 3}
+  m_Name: IceFocus
+  m_EditorClassIdentifier: 
+  limiter: {fileID: 11400000, guid: 262820b3472799c4fa4461af15f9f8f3, type: 2}
+  castColour: {fileID: 2100000, guid: f1a6b73547946ea43a1a3fe507279b54, type: 2}
+  fociiSpells:
+  - {fileID: 11400000, guid: c0bb027d3ab365846ae2cf2ee2e441f3, type: 2}
+  - {fileID: 11400000, guid: 4fa49227bcd682a418da39492a5ac0db, type: 2}
+  lightColour: {r: 0.2971698, g: 0.9867794, b: 1, a: 1}
+  shapes: 0100000004000000
+  fociiObject: {fileID: 0}

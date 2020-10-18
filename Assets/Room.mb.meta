@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 670609ea480677e4788d6fb1f037f885
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: DoorMerged1:Door:DoorLeft
+    100004: DoorMerged1:Door:DoorRight
+    100006: DoorMerged1:DoorFrameMerged
+    100008: DoorMerged1:Emissive
+    100010: DoorMerged2:Door:DoorLeft
+    100012: DoorMerged2:Door:DoorRight
+    100014: DoorMerged2:DoorFrameMerged
+    100016: DoorMerged2:Emissive
+    100018: Entrance
+    100020: EntranceWall
+    100022: Exit
+    100024: ExitWall
+    100026: Floor
+    100028: //RootNode
+    100030: ZNWall
+    100032: ZPWall
+    400000: Ceiling
+    400002: DoorMerged1:Door:DoorLeft
+    400004: DoorMerged1:Door:DoorRight
+    400006: DoorMerged1:DoorFrameMerged
+    400008: DoorMerged1:Emissive
+    400010: DoorMerged2:Door:DoorLeft
+    400012: DoorMerged2:Door:DoorRight
+    400014: DoorMerged2:DoorFrameMerged
+    400016: DoorMerged2:Emissive
+    400018: Entrance
+    400020: EntranceWall
+    400022: Exit
+    400024: ExitWall
+    400026: Floor
+    400028: //RootNode
+    400030: ZNWall
+    400032: ZPWall
+    2100000: lambert1
+    2300000: Ceiling
+    2300002: DoorMerged1:Door:DoorLeft
+    2300004: DoorMerged1:Door:DoorRight
+    2300006: DoorMerged1:DoorFrameMerged
+    2300008: DoorMerged1:Emissive
+    2300010: DoorMerged2:Door:DoorLeft
+    2300012: DoorMerged2:Door:DoorRight
+    2300014: DoorMerged2:DoorFrameMerged
+    2300016: DoorMerged2:Emissive
+    2300018: EntranceWall
+    2300020: ExitWall
+    2300022: Floor
+    2300024: ZNWall
+    2300026: ZPWall
+    3300000: Ceiling
+    3300002: DoorMerged1:Door:DoorLeft
+    3300004: DoorMerged1:Door:DoorRight
+    3300006: DoorMerged1:DoorFrameMerged
+    3300008: DoorMerged1:Emissive
+    3300010: DoorMerged2:Door:DoorLeft
+    3300012: DoorMerged2:Door:DoorRight
+    3300014: DoorMerged2:DoorFrameMerged
+    3300016: DoorMerged2:Emissive
+    3300018: EntranceWall
+    3300020: ExitWall
+    3300022: Floor
+    3300024: ZNWall
+    3300026: ZPWall
+    4300000: Ceiling
+    4300002: Floor
+    4300004: ZPWall
+    4300006: ZNWall
+    4300008: ExitWall
+    4300010: EntranceWall
+    4300012: DoorMerged1:DoorFrameMerged
+    4300014: DoorMerged1:Door:DoorRight
+    4300016: DoorMerged1:Door:DoorLeft
+    4300018: DoorMerged1:Emissive
+    4300020: DoorMerged2:DoorFrameMerged
+    4300022: DoorMerged2:Door:DoorRight
+    4300024: DoorMerged2:Door:DoorLeft
+    4300026: DoorMerged2:Emissive
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

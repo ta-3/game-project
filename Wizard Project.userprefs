@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerScripts\Magic Scripts\Air Spells\AccioEffect.cs">
+    <Files>
+      <File FileName="Assets\PlayerScripts\Magic Scripts\VRCasting.cs" Line="402" Column="10" />
+      <File FileName="Assets\PlayerScripts\PlayerMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerScripts\Magic Scripts\JoyconCasting.cs" Line="7" Column="23" />
+      <File FileName="Assets\JoyconLib_scripts\Joycon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Integrated Scripts\JoyconHand.cs" Line="26" Column="15" />
+      <File FileName="Assets\Scripts\Integrated Scripts\JoyconMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerScripts\Magic Scripts\Air Spells\AccioEffect.cs" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Tom\Documents\_All\_University\GP\game-project-2018\Wizard Project\Assets\JoyconLib_scripts\JoyconManager.cs" line="29" column="1" />
+      <Breakpoint file="C:\Users\Tom\Documents\_All\_University\GP\game-project-2018\Wizard Project\Assets\Scripts\Integrated Scripts\JoyconHand.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

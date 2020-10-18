@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2efe5ad728c9c54883a30764203a59a, type: 3}
+  m_Name: FireBallSpell
+  m_EditorClassIdentifier: 
+  spellName: Fireball
+  targettingMethod: {fileID: 11400000, guid: ac01b19e6ab24184d8635ca4939ce018, type: 2}
+  projectilePrefab: {fileID: 1237620566603726, guid: d3ad3dfb32b2ad94c9780e8a7996310b,
+    type: 2}
+  spawnDistance: 1

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93b6e2618cf5ab646a6d2c22221477c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftJoycon: {instanceID: 0}
+  - rightJoycon: {instanceID: 0}
+  - selectionMaterial: {fileID: 2100000, guid: 04195dd957d4d1c479c714edde5969d3, type: 2}
+  - temporaryMaterial: {fileID: 2100000, guid: ac1cd4966c4fe2f4593161ac0d2cbf24, type: 2}
+  - cursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
